@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="android_versions">Android Versions</string>
+    <string name="todo">TODO</string>
+</resources>
